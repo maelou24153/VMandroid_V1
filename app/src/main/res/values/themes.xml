@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.VMDroid" parent="android:Theme.Material.NoActionBar" />
+</resources>

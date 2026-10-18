@@ -1,0 +1,8 @@
+Placez ici les binaires QEMU compilés pour Android arm64, renommés en bibliothèques :
+
+  libqemu-system-x86_64.so    (PC 64 bits, Android-x86, Windows, Linux)
+  libqemu-system-i386.so      (PC 32 bits, optionnel)
+  libqemu-system-aarch64.so   (Linux ARM64, optionnel)
+  libqemu-img.so              (création de disques qcow2, optionnel)
+
+Voir README.md à la racine du projet.
